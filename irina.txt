@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hello
-=======
-lalala
->>>>>>> lecture2
+
