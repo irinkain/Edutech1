@@ -1,1 +1,5 @@
-gamarjoba irina
+<<<<<<< HEAD
+hello
+=======
+lalala
+>>>>>>> lecture2
